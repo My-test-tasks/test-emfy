@@ -1,0 +1,1 @@
+export { DealsTableSort } from "./DealsTableSort";

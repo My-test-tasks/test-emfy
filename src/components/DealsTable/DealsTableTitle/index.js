@@ -1,0 +1,1 @@
+export { DealsTableTitle } from "./DealsTableTitle";

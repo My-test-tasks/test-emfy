@@ -1,0 +1,1 @@
+export { DealsPagination } from "./DealsPagination";

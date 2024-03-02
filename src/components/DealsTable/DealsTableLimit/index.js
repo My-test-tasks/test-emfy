@@ -1,0 +1,1 @@
+export { DealsTableLimit } from "./DealsTableLimit";

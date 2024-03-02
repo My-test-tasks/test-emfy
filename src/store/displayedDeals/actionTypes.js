@@ -1,0 +1,1 @@
+export const SORTING_DEALS = "SORTING_DEALS";
